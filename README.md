@@ -36,7 +36,7 @@ To identify the monuments from Satellite Images using Deep Learning and Integrat
 
 For image recognition we are using pre trained CNN model (VGG-19 / GoogLeNet / ResNet)
 
-| ![](docs/img%5CSIH_KIIT_Prelims_CNN_Monuments6.jpg) |
+| ![](docs/img/SIH_KIIT_Prelims_CNN_Monuments6.jpg) |
 |:---:|
 | <b>Classification part with fully-connected and softmax layers</b>|
 
@@ -54,10 +54,10 @@ _[Taj Mahal](https://bhuvanlite.nrsc.gov.in/?x=78.0425123&y=27.1747201&z=25)_ , 
 
 4. The images attached here are basically the cropped screenshots from the above links.  _[Video](https://drive.google.com/file/d/1SObQz8jdVyqG-ITPYmA1RLFasH_LEauh/view?resourcekey)_  demonstration is also there.
 
-| ![](docs/img%5CSIH_KIIT_Prelims_CNN_Monuments8.png) |
+| ![](docs/img/SIH_KIIT_Prelims_CNN_Monuments8.png) |
 |:---:|
 | <b>Taj Mahal</b>|
-| ![](docs/img%5CSIH_KIIT_Prelims_CNN_Monuments9.png) |
+| ![](docs/img/SIH_KIIT_Prelims_CNN_Monuments9.png) |
 | <b>India Gate</b>|
 
 ## __Societal Impact & Business Relevance__
