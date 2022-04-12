@@ -57,7 +57,7 @@ _[Taj Mahal](https://bhuvanlite.nrsc.gov.in/?x=78.0425123&y=27.1747201&z=25)_ , 
 | ![](docs/img/SIH_KIIT_Prelims_CNN_Monuments8.png) |
 |:---:|
 | <b>Taj Mahal</b>|
-| ![](docs/img/CSIH_KIIT_Prelims_CNN_Monuments9.png) |
+| ![](docs/img/SIH_KIIT_Prelims_CNN_Monuments9.png) |
 | <b>India Gate</b>|
 
 ## __Societal Impact & Business Relevance__
