@@ -14,7 +14,7 @@ To identify the monuments from Satellite Images using Deep Learning and Integrat
 |Ashita Priya|
 |Nitin Kumar|
 |Piyush Kumar Singh|
-|Soham Dutta|
+|[Soham Dutta](https://github.com/shm-dsgn)|
 
 ## __SOLUTION__
 ---
